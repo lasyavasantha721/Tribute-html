@@ -1,0 +1,42 @@
+.container {
+    background-color:cadetblue;
+    max-width: 500px;
+    width: 100%;
+    display:grid;
+    margin:0%;
+}
+.title {
+    background-color:pink;
+    font-style: italic;
+    color: black;
+    text-align: center;
+
+}
+.mid {
+    display: flex;
+    align-items: center;
+    background-color:plum;
+   justify-content: center;
+   font-style: italic;
+
+
+}
+.imgg {
+    max-width: 100%;
+    max-height: 100%;
+    
+}
+.text {
+    padding-left: 20px;
+    font-size: 20px;
+}
+.fin {
+    background-color: pink;
+    color: black;
+    text-align: center;
+
+}
+p1 {
+    text-align: center;
+    color: purple;
+    font-style:oblique;
